@@ -1,2 +1,2 @@
 # Curso-Desec-Security
-Anatocoes de aulas 
+Anotacoes e resumos das aulas
