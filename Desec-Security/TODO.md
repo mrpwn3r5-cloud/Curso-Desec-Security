@@ -1,0 +1,36 @@
+
+- [ ] Preparar checklist de enumeração, e pós-exploração
+- [ ] Criar pasta com os arquivos e binários que serão usados no exame
+	- [ ] Responder
+	- [ ] Ligolo agent
+	- [ ] LinPEAS
+	- [ ] WinPEAS
+	- [ ] Nmap
+- [ ] Baixar disco pronto do kali para caso dê problemas com a maquina
+- [ ] Entender o funcionamento do ligolo
+- [ ] Deixar o template do relatório pronto, com tudo preparado, cores, fontes, datas, e dados, e testar conversão pra PDF para ver como vai ficar.
+- [ ] Verificar checklist do curso de IPW se esta batendo com meu novo checklist
+- [ ] Estudar o curso Introdução a Pentest Web novamente
+- [ ] Revisar as soluções e passo a passo dos projetos do PEv2
+- [ ] Ver tópicos do curso NPP se não tem nada que queira revisar
+	- [ ] ### Swiss Army Knife
+	- [ ] ### Information Gathering - INFRA
+		- [ ]  Pesquisa Domain Name System
+		- [ ]  Entendendo a transferência de Zona
+		- [ ]  Criando um script para Zone Transfer
+		- [ ]  Script para Pesquisa Direta (DNS)
+		- [ ]  Script para Pesquisa Reversa (DNS)
+		- [ ]  Outras Ferramentas para DNS
+	- [ ] ### Information Gathering - WEB
+	- [ ] ### Scanning
+	- [ ] ### Burlando Mecanismos de Defesa
+	- [ ] ### Enumeração (Enumeration)
+	- [ ] ### Análise de Vulnerabilidades
+	- [ ] ### Metasploit Framework
+	- [ ] ### Pentest Web: Web Hacking
+	- [ ] ### Pós Exploração
+- [ ] Verificar se licença do nessus vai suportar as 5 novas maquinas
+- [ ] Organizar quarto para me concentrar melhor
+- [ ] Comprar lanches e energéticos
+- [ ] Carregar fones de ouvido
+- [ ] Desativar notificações whatsapp e redes sociais
