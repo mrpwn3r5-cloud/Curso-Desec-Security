@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95f60eb1af3451ee",
+            "id": "ed498ba776310ce4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,32 @@
               },
               "icon": "lucide-file",
               "title": "Relatorio"
+            }
+          },
+          {
+            "id": "95f60eb1af3451ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desec-Security/00 - Checklist Principal DCPT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 - Checklist Principal DCPT"
+            }
+          },
+          {
+            "id": "c334de0292e05d41",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Laboratorio-Pev2/DECSTORE/captura-tela/evidencia07-key.png"
+              },
+              "icon": "lucide-image",
+              "title": "evidencia07-key"
             }
           }
         ]
@@ -61,7 +87,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -78,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 530.5,
+    "collapsed": true
   },
   "right": {
     "id": "dd97cd1db4eed6ee",
@@ -187,32 +214,32 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "95f60eb1af3451ee",
+  "active": "ed498ba776310ce4",
   "lastOpenFiles": [
-    "Laboratorio-Pev2/Excalidraw/Scripts/Downloaded/Select Elements of Type.svg",
+    "Laboratorio-Pev2/DECSTORE/captura-tela/evidencia07-key.png",
+    "Laboratorio-Pev2/DECSTORE/captura-tela/evidencia-03-hash-key.png",
+    "Laboratorio-Pev2/DECSTORE/Relatorio.md",
+    "Laboratorio-Pev2/DECSTORE/captura-tela/evidencia-05.png",
+    "Laboratorio-Pev2/DECSTORE/captura-tela/evidencia-04-aba-promocoes.png",
+    "Laboratorio-Pev2/DECSTORE/captura-tela/evidencia-04-key.png",
+    "Laboratorio-Pev2/DECSTORE/captura-tela/evidencia-04-logado-painel.png",
+    "Laboratorio-Pev2/DECSTORE/captura-tela/evidencia-06-key.png",
+    "Laboratorio-Pev2/DECSTORE/captura-tela/evidencia-08-key.png",
+    "Laboratorio-Pev2/DECSTORE/captura-tela/evidencia-08-priviesc.png",
+    "Laboratorio-Pev2/DECSTORE/captura-tela/feroxbuster.png",
+    "Desec-Security/00 - Checklist Principal DCPT.md",
+    "Sem título.md",
     "Laboratorio-Pev2/Excalidraw/Scripts/Downloaded/Select Elements of Type.md",
-    "Laboratorio-Pev2/Excalidraw/Scripts/Downloaded/Organic Line.svg",
     "Laboratorio-Pev2/Excalidraw/Scripts/Downloaded/Organic Line.md",
-    "Laboratorio-Pev2/Excalidraw/Scripts/Downloaded/Image Occlusion.svg",
     "Laboratorio-Pev2/Excalidraw/Scripts/Downloaded/Image Occlusion.md",
-    "Laboratorio-Pev2/Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.svg",
     "Laboratorio-Pev2/Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.md",
     "Laboratorio-Pev2/Excalidraw/Scripts/Downloaded",
     "Laboratorio-Pev2/Excalidraw/Scripts",
     "Laboratorio-Pev2/Excalidraw/Drawing 2025-12-11 08.28.22.excalidraw.md",
     "Laboratorio-Pev2/Excalidraw",
-    "Laboratorio-Pev2/DECSTORE/Relatorio.md",
-    "Laboratorio-Pev2/DECSTORE/captura-tela/nmap.png",
-    "Laboratorio-Pev2/DECSTORE/captura-tela/2025-12-15_11-35.png",
     "Desec-Security/04.01 - Pós-Exploração Linux.md",
-    "Laboratorio-Pev2/DECSTORE/captura-tela/evidencia-06-key.png",
-    "Laboratorio-Pev2/DECSTORE/captura-tela/evidencia-08-key.png",
-    "Laboratorio-Pev2/DECSTORE/captura-tela/evidencia-08-priviesc.png",
-    "Laboratorio-Pev2/DECSTORE/captura-tela/evidencia-04-key.png",
-    "Laboratorio-Pev2/DECSTORE/captura-tela/evidencia-04-aba-promocoes.png",
     "Desec-Security/02.01 - Enumeração Web Completa.md",
     "00 - Checklist Principal DCPT.md",
-    "Desec-Security/00 - Checklist Principal DCPT.md",
     "Laboratorio-Pev2/ORIONS CORP/Relatório.md",
     "Laboratorio-Pev2/DECSTORE/captura-tela",
     "Laboratorio-Pev2/DECSTORE/Relatorio",
